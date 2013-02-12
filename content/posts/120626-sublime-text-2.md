@@ -134,7 +134,7 @@ This wonderful plugin gives you instant feedback about the code you're writing, 
 
 ### Sublime CodeIntel
 
-Maintianed by the same developer as SublimeLint, CodeIntel gives you IDE-style functionality with intelligent code completion, import suggestions, and go-to definition support.
+Maintained by the same developer as SublimeLint, CodeIntel gives you IDE-style functionality with intelligent code completion, import suggestions, and go-to definition support.
 
 It's really nice to have sometimes. I typically have it disabled. Give it a spin and see what you think. You can install it via Package Control. Learn more [on GitHub](https://github.com/Kronuz/SublimeCodeIntel).
 
